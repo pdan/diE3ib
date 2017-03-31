@@ -1,0 +1,15 @@
+{
+  'plugins': ['react'],
+  'parser': 'babel-eslint',
+  'rules': {
+    'quotes': [2, 'single'],
+    'strict': 0,
+    'no-unused-vars': [0],
+    'new-cap': [0],
+    'no-underscore-dangle': [0],
+    'indent': [1, 2],
+    'react/jsx-closing-bracket-location': 1,
+    'react/jsx-indent-props': [1, 2],
+    'react/jsx-indent': [1, 2]
+  }
+}

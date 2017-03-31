@@ -1,0 +1,41 @@
+{
+  "name": "diE3ib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "6.10.1",
+    "npm": "3.10.10"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp build && gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "foundation-sites": "^6.3.1",
+    "motion-ui": "^1.2.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-router": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-eslint": "^7.2.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-react": "^6.23.0",
+    "browser-sync": "^2.18.8",
+    "css-loader": "^0.28.0",
+    "eslint": "^3.18.0",
+    "eslint-plugin-react": "^6.10.3",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "node-sass": "^4.5.2",
+    "sass-lint": "^1.10.2",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.1",
+    "webpack": "^2.3.2"
+  }
+}
