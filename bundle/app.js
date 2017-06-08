@@ -9553,11 +9553,11 @@ __WEBPACK_IMPORTED_MODULE_1_react_dom___default.a.render(__WEBPACK_IMPORTED_MODU
 
 
 const App = () => {
-    return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-        'div',
-        null,
-        'I\'m an Application'
-    );
+  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
+    'div',
+    null,
+    'I\'m an Application'
+  );
 };
 
 /* harmony default export */ __webpack_exports__["a"] = (App);
